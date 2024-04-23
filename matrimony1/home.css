@@ -1,0 +1,67 @@
+
+
+/* .home {
+    height: 100vh;
+    width: 100%;
+    background: url(https://img2.shaadi.com/assests/semlandingpage2/home-banner-ri.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+} */
+.bg-dark-transparent {
+    background-color: rgba(0, 0, 0, 0.3); /* Adjust the alpha (fourth parameter) for transparency */
+    color: white; /* Set text color to white for better visibility */
+  }
+  .form-select option {
+    text-align: center;
+  }
+  .custom-button {
+    background-color: #53b9d2 !important;
+    border-color: #53b9d2 !important;
+    color: white!important;
+  }
+
+  .custom-button:hover {
+    background-color: #418d9a !important;
+    border-color: #418d9a !important;
+  }
+
+/* 
+  <div class="col-md-4">
+  <label for="lookingFor" class="form-label text-light">I'm looking for a</label>
+  <select class="form-select" id="lookingFor" name="">
+    <option value="" class="btn text-dark bg-light">Woman</option>
+    <option value="" class="btn text-dark bg-light">Man</option>
+  </select>
+</div>
+
+<div class="col-md-4">
+  <label for="name" class="form-label text-light">Your Name</label>
+  <input type="text" class="form-control" placeholder="Name">
+</div>
+
+<div class="col-md-2">
+  <label for="age" class="form-label text-light">Age</label>
+  <select class="form-select text-center" id="age" name="">
+    <option value="">20</option>
+    <option value="">21</option>
+    <option value="">22</option>
+    <option value="">23</option>
+  </select>
+</div>
+
+<div class="col-md-4">
+  <label for="phoneNumber" class="form-label text-light">Phone Number</label>
+  <div class="input-group">
+    <span class="input-group-text">+91</span>
+    <input type="text" class="form-control" id="phoneNumberInput" placeholder="Phone Number">
+  </div>
+</div>
+
+<div class="col-md-12 mt-2">
+  <div class="d-flex align-items-center justify-content-md-end">
+    <input type="submit" value="Register" class="btn btn-light custom-button" data-bs-toggle="tooltip"
+      data-bs-placement="top" title="Click to Register">
+  </div>
+</div> */
